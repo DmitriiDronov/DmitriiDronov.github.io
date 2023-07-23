@@ -6,3 +6,8 @@
     max-width: 50px;
     max-height: 50px;
 }
+
+.justified {
+    text-align: justify;
+    text-justify: inter-word;
+}
