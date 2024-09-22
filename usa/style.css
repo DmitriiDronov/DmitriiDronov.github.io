@@ -1,0 +1,90 @@
+.inconsolata-font {
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.text-centered {
+    text-align: center;
+}
+
+.hr-thick {
+    border: none;
+    height: 1.5px;
+    background-color: #333;
+}
+
+.borderless {
+    border: none;
+}
+
+.link {
+    opacity: 70%;
+    color: black;
+}
+
+.icon {
+    opacity: 70%;
+}
+
+.paragraph-with-opacity {
+    opacity: 65%;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.badge {
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+.paragraph {
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.extra-bold {
+    font-weight: bolder;
+}
+
+.transparent {
+    opacity: 0%;
+}
+
+h4 {
+    font-size: 20px;
+    opacity: 70%;
+}
+
+h2 {
+    opacity: 75%;
+}
+
+.no-margin-bottom {
+    margin-bottom: 0;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.heebo-font {
+  font-family: "Heebo", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.roboto-mono-font {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.normal-weight {
+    font-weight: 400;
+}
+
+.justified {
+    text-align: justify;
+    text-justify: inter-word;
+}
